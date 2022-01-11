@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageResource>
+  <LanguageTwoLetterCode>es</LanguageTwoLetterCode>
+  <Version>1</Version>
+  <LocalizedItems>
+    <LocalizedItem>
+      <Key>Reset</Key>
+      <Value>Reiniciar</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>ResetPosition</Key>
+      <Value>Reset Posction</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>UpdateEveryXSeconds</Key>
+      <Value>Actualizar cada x segundos</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>AutoHide</Key>
+      <Value>AutoOcultar</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>HideItemsBelowThreshold</Key>
+      <ValueOcultar Elementos Bajo el Umbral</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>HideItemsNotAvailable</Key>
+      <Value>Ocultar elementos no disponibles</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>BackgroundColor</Key>
+      <Value>Color de Fondo</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>ForegroundColor</Key>
+      <Value>Color de primer plano</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>AccentColor</Key>
+      <Value>Acentuar color</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>MainWindow</Key>
+      <Value>Ventana principal</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>ColumnCount</Key>
+      <ValueConteo de columnas</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>ItemWidth</Key>
+      <Value>Anchura del elemento</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>ItemHeight</Key>
+      <Value>Altura del elemento</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>ItemPadding</Key>
+      <Value>Relleno de elemento</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>ItemTextScale</Key>
+      <Value>Escala de texto del elemento</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>Items</Key>
+      <Value>Elementos</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>Enabled</Key>
+      <Value>Activado</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>CriticalThreshold</Key>
+      <Value>Umbral Critico</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>SortOrder</Key>
+      <Value>Orden de clasificacion</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>Electricity</Key>
+      <Value>Uso de electricidad</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>Heating</Key>
+      <Value>Uso de calefaccion</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>Water</Key>
+      <Value>Uso de agua</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>SewageTreatment</Key>
+      <Value>Uso de tratamiento de aguas residuales</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>WaterReserveTank</Key>
+      <Value>Grado de vaciado de tanques de reserva de agua</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>WaterPumpingServiceStorage</Key>
+      <Value>Uso de tanques del servicio de bombeo de agua</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>WaterPumpingServiceVehicles</Key>
+      <Value>Vehiculos del servicio de bombeo de agua en uso</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>Landfill</Key>
+      <Value>Uso de relleno sanitario</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>LandfillVehicles</Key>
+      <Value>Camiones de basura del relleno sanitario en uso</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>Library</Key>
+      <Value>Uso de biblioteca</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>GarbageProcessing</Key>
+      <Value>Uso de procesado de basura</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>GarbageProcessingVehicles</Key>
+      <Value>Camiones de procesado de basura en uso</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>ElementarySchool</Key>
+      <Value>uso de Escuela general</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>HighSchool</Key>
+      <Value>Uso de Escuela Secundaria</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>University</Key>
+      <Value>Uso de universidad</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>UnhappinessCommercial</Key>
+      <Value>Infelicidad comercial</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>UnhappinessIndustrial</Key>
+      <Value>Infelicidad industrial</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>UnhappinessOffice</Key>
+      <Value>Infelicidad de oficina</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>UnhappinessResidential</Key>
+      <Value>Infelicidad Residencial</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>Healthcare</Key>
+      <Value>Clinica &amp; Hospital uso</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>HealthcareVehicles</Key>
+      <Value>Uso de ambulancias</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>MedicalHelicopters</Key>
+      <Value>Helicopteros Medicos en uso</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>AverageIllnessRate</Key>
+      <Value>Tasa de enfermedad</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>AverageChildrenIllnessRate</Key>
+      <Value>Tasa de enfermedad infantil</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>AverageElderlyIllnessRate</Key>
+      <Value>Tasa de enfermedad de adultos mayores</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>Cemetery</Key>
+      <Value>Uso de cementerios</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>CemeteryVehicles</Key>
+      <Value>Vehiculos del cementerio en uso</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>Crematorium</Key>
+      <Value>Uso del crematiorio</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>CrematoriumVehicles</Key>
+      <Value>Vehiculos del crematorio en uso</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>TrafficJam</Key>
+      <Value>Embotellamiento</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>GroundPollution</Key>
+      <Value>Contaminacion del suelo</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>DrinkingWaterPollution</Key>
+      <Value>Contaminacion del agua potable</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>NoisePollution</Key>
+      <Value>Contaminacion sonora</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>FireHazard</Key>
+      <Value>Riesgo de incendio</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>FireDepartmentVehicles</Key>
+      <Value>Vehiculos del departamento de bomberos en uso</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>FireHelicopters</Key>
+      <Value>Helicopteros de bomberos en uso</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>CrimeRate</Key>
+      <Value>Tasa de crimen</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>PoliceHoldingCells</Key>
+      <Value>Celdas de policia en uso</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>PoliceVehicles</Key>
+      <Value>Patrullas de policia en uso</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>PoliceHelicopters</Key>
+      <Value>Helicopteros de policia en uso</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>PrisonCells</Key>
+      <Value>Celdas de prisión en uso</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>PrisonVehicles</Key>
+      <Value>Vehiculos de transporte de prisioneros en uso</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>Unemployment</Key>
+      <Value>Desempleo</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>RoadMaintenanceVehicles</Key>
+      <Value>Vehiculos de mantenimiento de carreteras en uso</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>ParkMaintenanceVehicles</Key>
+      <Value>Vehiculos de mantenimiento de parques en uso</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>SnowDump</Key>
+      <Value>Uso de descarga de nieve</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>SnowDumpVehicles</Key>
+      <Value>Vehiculos de descarga de nieve en uso</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>CityUnattractiveness</Key>
+      <Value>Inatractivo de la ciudad</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>Taxis</Key>
+      <Value>Taxis en uso</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>PostVans</Key>
+      <Value>Camionetas de correo en uso</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>PostTrucks</Key>
+      <Value>Camiones de correo en uso</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>DisasterResponseVehicles</Key>
+      <Value>Vehiculos de respuesta a desastres en uso</Value>
+    </LocalizedItem>
+    <LocalizedItem>
+      <Key>DisasterResponseHelicopters</Key>
+      <Value>Helicopteros de respuesta a desastres en uso</Value>
+    </LocalizedItem>
+  </LocalizedItems>
+</LanguageResource>
